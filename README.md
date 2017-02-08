@@ -1,4 +1,4 @@
-# dsdtools
+# dsdtools - Deep-sea Data Tools
 #### A series of tools written in R that can be used for working with ocean data.
 
 These R scripts underpin much of the research we've done into distribution modelling for deep-sea species, working with physical oceangraphic and geological data. The tools are largely maintained by Andy Davies of Bangor University. All tools are released under the MIT License.
