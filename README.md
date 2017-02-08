@@ -7,8 +7,9 @@ The tools are loosely grouped into the following:
 
 * Physical Data
   * Tools working with physical oceanographic and geological data.
-    * **CTD_Profile_Plot.R** - Plot CTD profiles rapidly from a series of CTD files. This has been written specifically for SEA-BIRD systems, and uses CNV files as input.
-     * **CTD_Transect_Plot.R** - Plot CTD transects rapidly from a series of CTD files. This has been written specifically for SEA-BIRD systems, and uses CNV files as input.
+    * CTD_Data
+      * **CTD_Profile_Plot.R** - Plot CTD profiles rapidly from a series of CTD files. This has been written specifically for SEA-BIRD systems, and uses CNV files as input.
+       * **CTD_Transect_Plot.R** - Plot CTD transects rapidly from a series of CTD files. This has been written specifically for SEA-BIRD systems, and uses CNV files as input.
     
 
 * Deep-sea SDM Tools
